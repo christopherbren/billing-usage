@@ -100,7 +100,7 @@ Yes, what you spend monthly is up to you! You can spend any amount of the total 
 ## Can I cancel my Subscription account before the end of my term commitment?  
 {: #subs-cancel-early}
 
-Yes, you can cancel your account before your term expires, but note that the remainder of your total Subscription amount is forfeited. 
+Yes, you can cancel your account before your term expires, but note that the remainder of your total subscription credit, if any remains, will be forfeit at time of cancellation.  Additionally, any remaining payments on the subscription term will be due on the next invoice following the month service is cancelled.  For example, if you wish to cancel after 6 months of a 12 month term, all credits currently under the account will be lost on the date of cancellation, and an invoice for the last 6 unused months of the subscription will be issued to be paid, per contractual obligation to pay for the subscription term in full.  Also note that any data associated with the account following cancellation will be deleted, and cannot be recovered.
 
 ## What happens if I reach my spending commitment before my term ends?  
 {: #subs-spend-before-term-end}
